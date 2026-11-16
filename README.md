@@ -11,6 +11,7 @@ performing, and turns the numbers into prioritised, explainable recommendations:
 run out, fix pricing that is costing you the Buy Box, catch falling ratings, and improve listings
 that get traffic but don't convert.
 
+[![CI](https://github.com/S-Raha23/ShelfSense/actions/workflows/ci.yml/badge.svg)](https://github.com/S-Raha23/ShelfSense/actions/workflows/ci.yml)
 ![Django](https://img.shields.io/badge/Django-5.2-092E20?logo=django)
 ![DRF](https://img.shields.io/badge/DRF-3.16-A30000)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
